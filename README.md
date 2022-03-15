@@ -5,3 +5,4 @@
 # [4章](https://colab.research.google.com/drive/1D9EMFrcHlZrS0IPfpmxZQt6OGGgoIqrY?usp=sharing)
 # [5章](https://colab.research.google.com/drive/1dv7nWkrwZNC047F37coEdaUvrkaJDO9q?usp=sharing)
 # [6章](https://colab.research.google.com/drive/1Qa26Mb0kILqSoieE_FLMEnWCRVMKQWy4?usp=sharing)
+# [7章](https://colab.research.google.com/drive/1mxc9Qx08PQ6_cHnAW-puvUFetbupc0Am?usp=sharing)
