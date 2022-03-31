@@ -6,3 +6,4 @@
 # [9章-2](https://colab.research.google.com/drive/13Jp0XAorjjFKoguyq31nBXIxizomfHzd?usp=sharing)
 # [9章-3](https://colab.research.google.com/drive/1jj3Tfq1ypMAngNtANCBr3mYnRNPkXuu0?usp=sharing)
 # [9章-4](https://colab.research.google.com/drive/1exgwG7G_EiRr3VRlF1bg83rk7UYPz9dR?usp=sharing)
+# [10章](https://colab.research.google.com/drive/1PzQdqw7k9I75-ai4JpuIBdDgNLdT-piY?usp=sharing)
